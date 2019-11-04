@@ -8,7 +8,7 @@
 
 **Link to work:** [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31/)
 
-### Day : November 4  2019
+### Day 1 : November 4  2019
 
 **Today's Progress**: Hackerearth problem
 
