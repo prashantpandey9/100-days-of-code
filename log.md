@@ -8,3 +8,10 @@
 
 **Link to work:** [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31/)
 
+### Day : November 4  2019
+
+**Today's Progress**: Hackerearth problem
+
+**Thoughts:**  I struggled to understand the concept but it is easy to code later.It uses the reverse engineering method to explain the question.
+
+**Link to work:** [Monk and his father](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monk-and-his-father/)
