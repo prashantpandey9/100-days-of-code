@@ -23,3 +23,11 @@
 **Thoughts:** Today I picked 2 problems but I  not solved any of them,but i tried.
 
 **Link to work:** ...........
+
+### Day 3: November 7  2019
+
+**Today's Progress**: Codechef problem
+
+**Thoughts:** Its a infinite sequence question.
+
+**Link to work:** [Hard Sequence](https://www.codechef.com/NOV19B/problems/HRDSEQ)
